@@ -22,7 +22,7 @@
         "guzzle/guzzle": "2.6.*"
     },
     "autoload": {
-        "psr-0": { "Goutte": "." }
+        "psr-0": { "Goutte": "src/" }
     },
     "extra": {
         "branch-alias": {
